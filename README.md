@@ -9,3 +9,6 @@
 1. Deletion of Node in LL
 2. Insertion And reverse of LL
 3. template for DLL
+
+### Binary Search tree
+1. Lowest Common Ancestor
