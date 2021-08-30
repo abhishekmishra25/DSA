@@ -13,3 +13,4 @@
 ### Binary Search tree
 1. Lowest Common Ancestor
 2. array to BST
+3. Count BST nodes lies in range
